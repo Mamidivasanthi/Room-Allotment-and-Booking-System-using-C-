@@ -7,3 +7,4 @@ Set the start time
 Set the end time
 Set the chair booking capability
 Define the room number
+<img width="530" alt="image" src="https://github.com/Mamidivasanthi/Room-Allotment-and-Booking-System-using-C-/assets/100899755/7037aacc-d2dd-430b-81db-14f42065f77a">
